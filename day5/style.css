@@ -1,0 +1,38 @@
+/* h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: red;
+    background-image: url(hiring.jpg);
+} */
+
+h1 {
+    border: 3px solid purple;
+    text-align: center;
+    color: purple;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 50px;
+    padding: 50px;
+}
+
+h2 {
+    border: 2px solid blue;
+    text-align: center;
+    color: blue;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+button {
+    margin-left: 600px;
+    padding: 20px;
+    background-color: purple;
+    color: white;
+    font-size: larger;
+}
